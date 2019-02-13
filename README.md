@@ -3,7 +3,7 @@
 This repo contains testing BIM models for the paper entitled "Classification and Exemplary BIM Models Development of Design Changes".  
 
 Use the following data to reference this repo or the paper:  
-Lin, J., Zhou, Y., Zhang, J. and Hu, Z., Classification and Exemplary BIM Models Development of Design Changes. International Symposium on Automation and Robotics in Construction, 2019. (submitted)
+Lin, J.-R., Zhou, Y.-C., Zhang, J.-P., and Hu, Z.-Z, Classification and Exemplary BIM Models Development of Design Changes. International Symposium on Automation and Robotics in Construction, 2019. (submitted)
 
 # Background and Objectives
 
