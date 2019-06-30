@@ -1,9 +1,10 @@
 # Design-Change-BIM-Models
 
 This repo contains testing BIM models for the paper entitled "Classification and Exemplary BIM Models Development of Design Changes".  
+[Link to the published version](https://www.iaarc.org/publications/fulltext/ISARC_2019_Paper_29.pdf)
 
 Use the following data to reference this repo or the paper:  
-Lin, J.-R.\*, Zhou, Y.-C., Zhang, J.-P., and Hu, Z.-Z, Classification and Exemplary BIM Models Development of Design Changes. in Proceedings of International Symposium on Automation and Robotics in Construction, 2019. (accepted)
+Lin, J.-R.\*, Zhou, Y.-C., Zhang, J.-P., and Hu, Z.-Z.(2019), Classification and Exemplary BIM Models Development of Design Changes. in Proceedings of the 2019 International Symposium on Automation and Robotics in Construction (ISARC2019), 122-127. doi: 10.22260/ISARC2019/0017
 
 # Background and Objectives
 
